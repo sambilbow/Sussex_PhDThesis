@@ -4,4 +4,4 @@
 - Bibliography uses `natbib` + `bibTeX`
 - Terms / Acronyms using `glossaries-extra` + `bib2gls`
 
-A few changes from the original by Martin Jung to be added at a later date
+A few changes from Martin's template will be added at a later date
